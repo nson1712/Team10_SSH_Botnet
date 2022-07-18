@@ -33,7 +33,7 @@ At least 1 **bot** to start the **Attack**
 ## Installation
 
 ```
-git clone https://github.com/kamiras/Team10_SSH_Botnet.git
+git clone https://github.com/nson1712/Team10_SSH_Botnet.git
 ```
 
 
@@ -54,7 +54,7 @@ python3 ssh.py
 
 Then select the **option** that you want ( **Remember**, you need to have **some bots** before starting the attacks ):
 
- 	    ████████╗███████╗ █████╗ ███╗   ███╗     ██╗ ██████╗                 
+ 	          ████████╗███████╗ █████╗ ███╗   ███╗     ██╗ ██████╗                 
             ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║    ███║██╔═████╗                
                ██║   █████╗  ███████║██╔████╔██║    ╚██║██║██╔██║                
                ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║     ██║████╔╝██║                
